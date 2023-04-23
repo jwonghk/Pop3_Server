@@ -1,11 +1,7 @@
 /* mailuser.c
  * Handles authentication and mail data for an email system
- * Author  : Jonatan Schroeder
- * Modified: Nov 5, 2021
- *
- * Modified by: Norm Hutchinson
- * Modified: Mar 5, 2022
- */
+*/
+
 
 #include "mailuser.h"
 

@@ -1,8 +1,6 @@
 /* netbuffer.c
  * Provides an alternative method for reading strings from a socket
  * file descriptor based on a stdio-style buffer.
- * Author  : Jonatan Schroeder
- * Modified: Nov 6, 2021
  */
 
 #include "netbuffer.h"

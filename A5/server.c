@@ -1,15 +1,5 @@
 /* server.c
  * Handles the creation of a server socket and data sending.
- * Author  : Jonatan Schroeder
- * Modified: Nov 6, 2021
- *
- * Modified by: Norm Hutchinson
- * Modified: Mar 5, 2022
- *
- * Notes: This code is adapted from Beej's Guide to Network
- * Programming (http://beej.us/guide/bgnet/), in particular the code
- * available in functions sigchld_handler, get_in_addr, run_server and
- * send_all.
  */
 
 #include "server.h"

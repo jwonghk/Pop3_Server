@@ -1,7 +1,5 @@
 /* netbuffer.h
  * Creates a buffer for receiving data from a socket and reading individual lines.
- * Author  : Jonatan Schroeder
- * Modified: Nov 6, 2021
  */
 
 #ifndef _NET_BUFFER_H_
