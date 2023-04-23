@@ -1,0 +1,4 @@
++OK POP3 Server on thetis.students.cs.ubc.ca ready
+-ERR Bad sequence of commands
++OK (noop)
++OK thetis.students.cs.ubc.ca POP3 server signing off
